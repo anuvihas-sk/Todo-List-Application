@@ -18,6 +18,7 @@ This Todo List Application is a React.js project that allows users to create, ma
 - npm (Node package manager)
 
 ### Steps
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git
